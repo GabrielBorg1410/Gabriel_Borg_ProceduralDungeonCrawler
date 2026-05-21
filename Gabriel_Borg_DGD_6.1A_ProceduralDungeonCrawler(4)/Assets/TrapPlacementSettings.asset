@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81d9aabd8d1f10542a357ef196830893, type: 3}
+  m_Name: TrapPlacementSettings
+  m_EditorClassIdentifier: 
+  spikeTrapTile: {fileID: 11400000, guid: 5ff3fb679ad13d24ba73ffa4c913c9fb, type: 2}
+  poisonPoolTile: {fileID: 11400000, guid: f832b6d82821ef746a3e8f2ac082c725, type: 2}
+  pressurePlateTile: {fileID: 11400000, guid: 6991b8eca0ca11743a2a2ff8b52887af, type: 2}
+  minTrapsPerRoom: 1
+  maxTrapsPerRoom: 3
+  roomChanceToHaveTraps: 0.6

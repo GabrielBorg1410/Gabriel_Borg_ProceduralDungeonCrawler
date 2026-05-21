@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef888453d338d5d47b5a952c0c3d86ed, type: 3}
+  m_Name: VegetationSettings
+  m_EditorClassIdentifier: 
+  mossTile: {fileID: 11400000, guid: 7a3679e47d5b2a24cacea6d06794fe74, type: 2}
+  mushroomTile: {fileID: 11400000, guid: e524879654af61740962921ba516ce93, type: 2}
+  vineTile: {fileID: 11400000, guid: 3bcbf935fcb5cd240bbcae7b07301e92, type: 2}
+  rootTile: {fileID: 11400000, guid: c4dc2ee501fa8e64c84e1c85117aa27f, type: 2}
+  mossChance: 0.12
+  mushroomChance: 0.05
+  vineChance: 0.08
+  maxRootLength: 4
